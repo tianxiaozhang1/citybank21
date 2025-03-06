@@ -298,7 +298,7 @@ export default function Home() {
                                 </div>
                                 
                             </div>
-                            <button type="submit" value="Login" onClick={window.open("https://github.com/tianxiaozhang1/citybank2")} className="w-full text-rouLan bg-slate-50 hover:bg-white hover:bg-biCheng focus:ring-4 focus:outline-none focus:ring-primary-300 font-medium shadow-sm border-2 border-slate-200 rounded-3xl text-xl px-5 py-2.5 text-center">Sign in</button>
+                            <button type="submit" value="Login" className="w-full text-rouLan bg-slate-50 hover:bg-white hover:bg-biCheng focus:ring-4 focus:outline-none focus:ring-primary-300 font-medium shadow-sm border-2 border-slate-200 rounded-3xl text-xl px-5 py-2.5 text-center">Sign in</button>
                             <p className="text-md font-semibold text-gray-500 dark:text-gray-400 space-y-6 hover:underline cursor-pointer">Forgot password?</p>
                             <p className="text-md font-light text-gray-500 dark:text-gray-400 mb-6">
                                 Don&apos;t have an account yet? <a href="/signup" class="font-medium text-primary-600 hover:underline">Sign up</a>
